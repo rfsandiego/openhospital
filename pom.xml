@@ -243,7 +243,7 @@
 	  	<dependency>
 	  		<groupId>org.slf4j</groupId>
 	  		<artifactId>slf4j-api</artifactId>
-	  		<version>1.6.4</version>
+	  		<version>1.7.32</version>
 	  	</dependency>
 	  	<dependency>
 	  		<groupId>org.slf4j</groupId>
@@ -259,7 +259,7 @@
 			<groupId>org.igniterealtime.smack</groupId>
 			<artifactId>smackx</artifactId>
 			<version>3.2.1</version>
-		</dependency >
+		
 	  	<dependency>
 	  		<groupId>org.imgscalr</groupId>
 	  		<artifactId>imgscalr-lib</artifactId>
@@ -302,7 +302,7 @@
 			<version>poi-3.7</version>
 			<scope>provided</scope>
 		</dependency> -->
-  </dependencies>
+  
   <repositories>
     	<repository>
         	<id>spring-libs-release</id>
@@ -332,4 +332,4 @@
                 </snapshots>
         </repository>
 	</repositories>
-</project>
+</dependency></dependencies></project>
