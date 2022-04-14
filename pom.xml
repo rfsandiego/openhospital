@@ -16,7 +16,7 @@
 	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring.framework.version>4.3.18.RELEASE</spring.framework.version>
+		<spring.framework.version>5.2.21.RELEASE</spring.framework.version>
 	</properties>
 	
 	<build>
@@ -259,7 +259,7 @@
 			<groupId>org.igniterealtime.smack</groupId>
 			<artifactId>smackx</artifactId>
 			<version>3.2.1</version>
-		</dependency >
+		
 	  	<dependency>
 	  		<groupId>org.imgscalr</groupId>
 	  		<artifactId>imgscalr-lib</artifactId>
@@ -302,7 +302,7 @@
 			<version>poi-3.7</version>
 			<scope>provided</scope>
 		</dependency> -->
-  </dependencies>
+  
   <repositories>
     	<repository>
         	<id>spring-libs-release</id>
@@ -332,4 +332,4 @@
                 </snapshots>
         </repository>
 	</repositories>
-</project>
+</dependency></dependencies></project>
